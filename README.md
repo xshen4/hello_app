@@ -14,6 +14,5 @@ To deploy to heroku, make sure command line heroku tools are installed:
 $ git push heroku master
 
 Navigate to
-http://protected-ridge-6546.herokuapp.com
-
+http://xiu-shen-rails-hello.herokuapp.com
 
